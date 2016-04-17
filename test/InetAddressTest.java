@@ -41,7 +41,7 @@ public class InetAddressTest {
         // 服务器端IP地址
         String serverIP = "127.0.0.1";
         // 服务器端端口号
-        int port = 10000;
+        int port = 8080;
         // 发送内容
         String data = "Hello";
         try {
